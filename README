@@ -1,0 +1,10 @@
+This is Windows 7 version with Vim 7.3 configuration. It is a derivative of Derek Waytt's work, but lot of other customization is also there.
+
+Steps:
+
+1> git clone git://github.com/arindam89/vimconfigwin.git
+2> Rename vimconfiglin to vim
+3> Place it under Program ~
+4> cd ~; mv ~/vin/vimrc .vimrc
+5> mv vim .vim
+
